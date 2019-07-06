@@ -14,8 +14,8 @@ def link
 end
 
 def any_phrase(mario, toadstool, link)
-  mario = "It's-a me, Mario!"
+  mario = It's-a me, Mario!
   toadstool = Thank You Mario! But Our Princess Is In Another Castle!
-  link = "It's Dangerous To Go Alone! Take This."
+  link = It's Dangerous To Go Alone! Take This.
   puts any_phrase
-end 
+end
